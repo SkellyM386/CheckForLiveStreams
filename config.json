@@ -1,0 +1,14 @@
+{
+  "vanilla":{
+    "CLIENT_ID":"A CLIENT ID GOES HERE",
+    "CLIENT_SECRET":"A CLIENT SECRET GOES HERE"
+  },
+  "chocolate": {
+    "CLIENT_ID":"A CLIENT ID GOES HERE",
+    "CLIENT_SECRET":"A CLIENT SECRET GOES HERE"
+  },
+  "hazel": {
+    "CLIENT_ID":"A CLIENT ID GOES HERE",
+    "CLIENT_SECRET":"A CLIENT SECRET GOES HERE"
+  }
+}
