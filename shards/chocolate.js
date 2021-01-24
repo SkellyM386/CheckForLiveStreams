@@ -1,6 +1,6 @@
 const { EventEmitter } = require('events');
 const getLiveStreams = require('./base');
-const config = require('../config/config.json');
+const config = require('../config.json');
 const shardAnswer = new EventEmitter();
   shardAnswer.addListener('get', async streams => {
 
