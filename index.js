@@ -2,7 +2,6 @@ const vanilla = require('./shards/vanilla');
 const chocolate = require('./shards/chocolate');
 const hazel = require('./shards/hazel');
 const { EventEmitter } = require('events');
-const e = new EventEmitter();
 
 const shards = [vanilla, chocolate, hazel];
 
